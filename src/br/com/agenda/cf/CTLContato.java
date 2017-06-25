@@ -10,4 +10,5 @@ public class CTLContato {
     public CTLContato() throws SQLException{
         connection = new ConnectionFactory().getConnection();
     }
+    
 }

@@ -1,4 +1,4 @@
-package br.com.agenda.cf;
+package br.com.agenda.dao;
 
 import java.sql.Connection;
 
